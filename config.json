@@ -1,0 +1,7 @@
+{
+  remoteUrl: "",
+  remoteTestUrl: "",
+  downloadUrlIOS: "",
+  downloadUrlAndroid:"",
+  listAcc:[]
+}
