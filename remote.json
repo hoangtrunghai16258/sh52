@@ -1,7 +1,7 @@
 {
-  remoteUrl: "",
-  remoteTestUrl: "",
+  remoteUrl: "https://asset.sieuhu52.club/hotupdate/remote-assests",
+  remoteTestUrl: "https://asset.sieuhu52.club/hotupdate/remote-assests-test",
   downloadUrlIOS: "",
   downloadUrlAndroid:"",
-  listAcc:[]
+  listAcc:["gamegame3"]
 }
